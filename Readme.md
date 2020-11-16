@@ -1,12 +1,12 @@
 # Projet boutique e-commerce
 
-## Objectif
+## Objectif
 
 Il faut créer un site e-commerce sans utiliser un **CMS** sous **Symfony** pour le back-office, **React.js** pour le front.
 Le back office doit pouvoir afficher/créer/supprimer des produits, catégories et pages sur le site. Evidemment le site et le back office doivent être **sécurisé**
 On a juste qu'au **21 septembre 2021** pour finir le projet.
 
-## Informations supplémentaires
+## Informations supplémentaires
 
 Le back office doit posséder un tableau de bort qui indique :
 - les dernières commandes 
